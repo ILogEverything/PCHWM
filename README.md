@@ -1,4 +1,4 @@
-# HWMonitor - PC Monitoring System
+# PCHWM
 
 ## Description
 
