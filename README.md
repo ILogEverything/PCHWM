@@ -2,7 +2,7 @@
 
 ## Description
 
-HWMonitor is a system designed to monitor PC hardware parameters. Information is acquired through **OpenHardwareMonitor** and **LibreHardwareMonitor**, already included via their respective DLLs, and transmitted via USB (COM port) to an Arduino, which displays it on a 20x4 LCD screen.
+SensorMonitor is a system designed to monitor PC hardware parameters. Information is acquired through **[OpenHardwareMonitor](https://github.com/openhardwaremonitor/openhardwaremonitor)** and **[LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)**, already included via their respective DLLs, and transmitted via USB (COM port) to an Arduino, which displays it on a 20x4 LCD screen.
 
 ## Features
 
