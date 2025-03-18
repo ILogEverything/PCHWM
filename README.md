@@ -9,7 +9,6 @@ SensorMonitor is a system designed to monitor PC hardware parameters. Informatio
 - **Real-time monitoring** of PC hardware parameters.
 - **Display on a 20x4 LCD screen**.
 - **Communication via USB (COM port) with Arduino**.
-- **Compatible with Arduino and Windows software**.
 
 ## Hardware Requirements
 
