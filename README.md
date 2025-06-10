@@ -29,26 +29,32 @@ SensorMonitor is a system designed to monitor PC hardware parameters. Informatio
 
 ## License
 
+Custom Non-Commercial License (Strict)
+Copyright (c) 2025 Giampiero
+
 1. License Grant
 
-This software is provided free of charge and may be used for personal and non-commercial purposes only. Any commercial use, distribution, or resale of this software is strictly prohibited without the explicit written consent of the author.
+This software is provided free of charge and may be used strictly for personal, non-commercial purposes only.  
+Any commercial use, resale, redistribution, or integration into other systems or products is strictly prohibited  
+without the explicit written consent of the author.
 
 2. Restrictions
 
-The executable file may not be modified, decompiled, reverse-engineered, or analyzed in any way.
-
-The software may not be incorporated into any other software or system without explicit permission from the author.
-
-Redistribution of the software is allowed only in its original, unmodified form and for non-commercial purposes.
+- The executable file may not be modified, disassembled, decompiled, reverse-engineered, or analyzed in any form.  
+- The software may not be incorporated into, linked with, or embedded in any other system, application, or framework  
+  without the author's explicit written permission.  
+- Redistribution is permitted **only** in its original, unmodified form, and strictly for non-commercial use.
 
 3. Disclaimer of Warranty
 
-This software is provided "as is", without any express or implied warranties. The author assumes no responsibility for any damages, direct or indirect, that may arise from the use of this software.
+This software is provided "as is", without any express or implied warranties, including but not limited to merchantability,  
+fitness for a particular purpose, or non-infringement. Use of this software is entirely at your own risk.
 
-4. Liability Limitation
+4. Limitation of Liability
 
-By using this software, you agree that the author is not liable for any issues, malfunctions, data loss, or damages caused by its use.
+In no event shall the author be held liable for any loss, damage, data corruption, malfunction, or legal claims arising from  
+the use, misuse, or inability to use this software.
 
-5. Voluntary Donations
+---
 
-This software is provided free of charge. If you find it useful and wish to support the project, you may make a voluntary donation via PayPal (link in the sw). Donations do not grant additional rights or privileges.
+For commercial licensing or other inquiries, please contact the author directly.
